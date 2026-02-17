@@ -1,0 +1,11 @@
+class L3P3{
+	public static void main(String[] args){
+	L3P2 p=new L3P2();
+	L3P2 p= new L3P2();
+	p.setvalues(4);
+	p.display();
+	p.show();
+	p.pearl();
+
+	}
+}
